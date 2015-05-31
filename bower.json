@@ -1,0 +1,33 @@
+{
+  "name": "angular-promise-loader",
+  "version": "1.0.0",
+  "description": "Angular directives to display loading for button and form based on promises",
+  "license": "MIT",
+  "authors": [
+    "Ilya Fedotov <ilya@fedotov.me>"
+  ],
+  "main": [
+    "dist/loader.min.js",
+    "dist/loader.min.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "src",
+    "gulp",
+    "node_modules",
+    "gulpfile.js",
+    "package.json",
+  ],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "button",
+    "form",
+    "loader",
+    "loading",
+    "promise"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
