@@ -1,0 +1,1 @@
+# Angular promise loader
