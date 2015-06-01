@@ -1,7 +1,7 @@
 {
   "name": "angular-promise-loader",
-  "version": "1.0.0",
-  "description": "Angular directives to display loading for button and form based on promises",
+  "version": "1.0.1",
+  "description": "Angular directives to display loading of an indicate after pressing a button or a form based on promises",
   "license": "MIT",
   "authors": [
     "Ilya Fedotov <ilya@fedotov.me>"
