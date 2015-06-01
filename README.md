@@ -2,6 +2,10 @@
 
 > Angular directives to display loading for button and form based on promises.
 
+### Demo
+
+Example loader is located [here](http://fedotov.work/angular-promise-loader/).
+
 ### Usage
 
 Install via bower or download the files from the `dist` folder in the your repo.
