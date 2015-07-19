@@ -8,11 +8,19 @@ Example loader is located [here](http://fedotov.work/angular-promise-loader/).
 
 ### Usage
 
-Install via bower or download the files from the `dist` folder into your repo.
+Install via bower:
 
 ```
-$ bower install angular-promise-loader
+$ bower install angular-promise-loader --save
 ```
+
+or via npm:
+
+```
+$ npm install angular-promise-loader --save
+```
+
+or download the files from the `dist` folder into your repo.
 
 Add `dist/loader.min.js` and `dist/loader.min.css` to your `index.html`. Then add `angularPromiseLoader` as a module dependency to your angular module.
 
@@ -58,6 +66,7 @@ Then you can use the following commands for development:
 
 ### Release History
 
+* 1.0.2 — Added npm support.
 * 1.0.1 — Updated texts.
 * 1.0.0 — Added bower support.
 * 0.1.1 — Added form loader example in the demo.
